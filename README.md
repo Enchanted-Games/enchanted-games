@@ -1,4 +1,5 @@
-## Hi there 👋
+## hello!
+i like to make minecraft resourcepacks and mods
 
 <!--
 **Enchanted-Games/enchanted-games** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
