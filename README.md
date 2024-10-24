@@ -1,5 +1,9 @@
 ## hello!
-i like to make minecraft resourcepacks and mods
+i like mod things, mainly minecraft. decent in java and javascript, learning opengl
+
+### currently working on
+- [Particle Interactions](https://github.com/Enchanted-Games/block-place-particles)
+- updating my mods to 1.21.3
 
 <!--
 **Enchanted-Games/enchanted-games** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
