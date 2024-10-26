@@ -1,5 +1,5 @@
 ## hello!
-i like mod things, mainly minecraft. decent in java and javascript, learning opengl
+i like to make mods, mainly for minecraft. decent in java and javascript, learning opengl
 
 ### currently working on
 - [Particle Interactions](https://github.com/Enchanted-Games/block-place-particles)
