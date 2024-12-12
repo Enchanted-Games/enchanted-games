@@ -3,7 +3,8 @@ i like to make mods, mainly for minecraft. decent in java and javascript, learni
 
 ### currently working on
 - [Particle Interactions](https://github.com/Enchanted-Games/block-place-particles)
-- updating my mods to 1.21.3
+- [Tasty Items](https://github.com/Enchanted-Games/tasty-items-rp)
+- updating everything to minecraft 1.21.4
 
 <!--
 **Enchanted-Games/enchanted-games** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
