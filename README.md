@@ -2,6 +2,7 @@
 i like to make mods, mainly for minecraft. decent in java and javascript, learning opengl
 
 ### currently working on
+- [Enchanted Vertical Slabs](https://github.com/Enchanted-Games/enchanted-vertical-slabs) v3
 - [Particle Interactions](https://github.com/Enchanted-Games/block-place-particles)
 
 <!--
